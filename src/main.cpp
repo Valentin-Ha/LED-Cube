@@ -1,8 +1,8 @@
 #include <Arduino.h>
 
 // Define pin numbers for the LEDs and transistors
-#define pin1 2
-#define pin2 3
+#define pin1 11
+#define pin2 12
 #define pin3 4
 #define pin4 5
 #define pin5 6  // Middle LED

@@ -1,5 +1,6 @@
 ## LED CUBE
 This project uses an Arduino to control a 3D LED Cube that cycles through a set of predefined images. Each image is displayed layer by layer using a set of LEDs.
+The LED Cube is based ojn this one but Pins and wiring are changed.
 
 ## Components
 
